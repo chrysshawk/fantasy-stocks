@@ -1,0 +1,2 @@
+# fantasy-stocks
+Stock project
